@@ -1,20 +1,25 @@
-<<<<<<< HEAD
-# ClipClop_nail_mate
-=======
-# clip_clop
+# Clip Clop - Nail Care Reminder App ✂️
 
-A new Flutter project.
+![App Screenshot](assets/screenshots/) <!-- Add your screenshot path here -->
 
-## Getting Started
+A friendly Flutter app that helps users remember to trim their nails regularly with cute reminders and positive reinforcement.
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+- 🕒 Bi-weekly nail trimming reminders
+- 📈 Visual nail growth progress tracker
+- 🎉 Celebration animations when logging trims
+- 📊 Trim history statistics
+- 🎨 Masculine, clean UI design
+- 📱 Works offline with local data storage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation 🛠️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> origin/master
+### Prerequisites
+- Flutter SDK (latest stable version)
+- Android Studio/Xcode (for emulator/device testing)
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/clip_clop.git
