@@ -22,4 +22,4 @@ A friendly Flutter app that helps users remember to trim their nails regularly w
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clip_clop.git
+    git clone https://github.com/minni-developer/ClipClop_nail_mate.git
